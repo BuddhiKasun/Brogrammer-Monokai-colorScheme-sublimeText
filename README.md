@@ -10,7 +10,7 @@ Brogrammer-Monokai is a color scheme for Sublime Text 2 and 3. Inspired by Brogr
 <h2>CSS</h2>
 ![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/css.png)
 
-<h1>Manual Installation</h1>
+<h2>Manual Installation</h2>
 
 You can also install it manually by following these instructions:
 
@@ -21,7 +21,7 @@ You can also install it manually by following these instructions:
 4. Copy and paste unzipped file to the folder.
 5. Done!
 
-<h1>Activating the Theme</h1>
+<h2>Activating the Theme</h2>
 
 Activate the theme by modifying your user preferences to include the following:
 
