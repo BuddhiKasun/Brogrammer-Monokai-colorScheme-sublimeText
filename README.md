@@ -26,10 +26,8 @@ You can also install it manually by following these instructions:
 Activate the theme by modifying your user preferences to include the following:
 
 <pre>
-
 {
-  "theme": "Brogrammer-Monokai",
-  "color_scheme": "Packages/Brogrammer-Monokai/Brogrammer-Monokai.tmTheme"
+    "color_scheme": "Packages/Brogrammer-Monokai/Brogrammer-Monokai.tmTheme"
 }
 </pre>
 
