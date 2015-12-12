@@ -28,8 +28,8 @@ Activate the theme by modifying your user preferences to include the following:
 <pre>
 
 {
-  "theme": "Flatland Dark.sublime-theme",
-  "color_scheme": "Packages/Theme - Flatland/Flatland Dark.tmTheme"
+  "theme": "Brogrammer-Monokai",
+  "color_scheme": "Packages/Brogrammer-Monokai/Brogrammer-Monokai.tmTheme"
 }
 </pre>
 
