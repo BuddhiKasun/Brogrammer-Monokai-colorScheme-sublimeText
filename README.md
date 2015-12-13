@@ -13,11 +13,11 @@ Brogrammer-Monokai is a color scheme for Sublime Text 2 and 3. Combinations of t
 
 You can also install it manually by following these instructions:
 
-1. Download theme files
+1. Download theme files.
 2. Unzip the files.
 3. Go to packages directory by selecting <code> "Preferences > Browse Packages" </code>.
 3. Create a folder in Sublime Text Packages directory with the name Brogrammer-Monokai.
-4. Copy and paste unzipped file to the folder.
+4. Copy and paste unzipped files to the folder.
 5. Done!
 
 <h2>Activating the Theme</h2>
