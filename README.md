@@ -1,11 +1,11 @@
-Brogrammer-Monokai is a color scheme for Sublime Text 2 and 3. Two of favorite color schemes are Brogrammer and Monokai. I wanted best of both. So I created a combination between Brogrammer and Monokai.
+Brogrammer-Monokai is a color scheme for Sublime Text 2 and 3. I created a combination between Brogrammer and Monokai.
 
 <h2>Javascript</h2>
 ![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/javascript.png)
 <h2>PHP</h2>
 ![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/php.png)
 <h2>HTML</h2>
-![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/html.PNG)
+![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/html.png)
 <h2>CSS</h2>
 ![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/css.png)
 
