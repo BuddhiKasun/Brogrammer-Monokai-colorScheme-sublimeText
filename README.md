@@ -5,7 +5,7 @@ Brogrammer-Monokai is a color scheme for Sublime Text 2 and 3. Two of favorite c
 <h2>PHP</h2>
 ![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/php.png)
 <h2>HTML</h2>
-![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/html.PNG)
+![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/html.png)
 <h2>CSS</h2>
 ![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/css.png)
 
