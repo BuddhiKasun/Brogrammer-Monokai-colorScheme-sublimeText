@@ -1,4 +1,4 @@
-I wanted best of both Brogrammer and Monokai, so I made this. Supported for Sublime Text 2 and 3.
+Best of both Brogrammer and Monokai. Supported for Sublime Text 2 and 3.
 
 <h2>Javascript/jQuery</h2>
 ![alt tag](https://github.com/BuddhiKasun/Brogrammer-Monokai-colorScheme-sublimeText/blob/master/Screenshots/javascript.png)
